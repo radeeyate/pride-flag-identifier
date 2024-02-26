@@ -1,5 +1,9 @@
 # Pride Flag Identifier
 
+Pride flag identifier classifies images of pride flags using maching learning.
+
+This project is very early in making, it will not be accurate for all flags.
+
 ## Setup
 ```
 git clone https://github.com/radeeyate/pride-flag-identifier.git
